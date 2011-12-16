@@ -1,0 +1,52 @@
+Starting server
+Initializing Users list
+loading data for all users
+done reading data
+Finish initializing user list
+
+----Server Started -----   Fri Dec 16 13:34:27 IST 2011
+New user sign up request with user id sagar
+Writing user data to system
+User data for sagar save to DB successfully
+Sign in request from : sagar
+Validating : sagar
+Fetching data from the DB for user sagar
+User data loaded for user sagar
+Login successful
+Calling status updater to update user status to other user about new user status status
+Returning all user list to the user
+Loading offline messages for user sagar
+Offline messages not found for user sagar
+Requesting user data from the DB for user sagar
+Fetching data from the DB for user sagar
+User data loaded for user sagar
+Requesting user data from the DB for user sagar
+Fetching data from the DB for user sagar
+User data loaded for user sagar
+Requesting user data from the DB for user sagar
+Fetching data from the DB for user sagar
+User data loaded for user sagar
+Requesting user data from the DB for user sagar
+Fetching data from the DB for user sagar
+User data loaded for user sagar
+Sign in request from : sagar
+Validating : sagar
+Fetching data from the DB for user sagar
+User data loaded for user sagar
+Login successful
+Calling status updater to update user status to other user about new user status status
+Returning all user list to the user
+Loading offline messages for user sagar
+Offline messages not found for user sagar
+New user sign up request with user id ambrish
+Writing user data to system
+User data for ambrish save to DB successfully
+Sign in request from : ambrish
+Validating : ambrish
+Fetching data from the DB for user ambrish
+User data loaded for user ambrish
+Login successful
+Calling status updater to update user status to other user about new user status status
+Returning all user list to the user
+Loading offline messages for user ambrish
+Offline messages not found for user ambrish

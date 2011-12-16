@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<USER>
+	<USERID>admin</USERID>
+	<PASSWORD>admin</PASSWORD>
+	<NAME>Admin</NAME>
+	<DOB>15/12/1985</DOB>
+	<ADDRESS>Paxcel technologies Pvt Ltd</ADDRESS>
+	<MOBNO></MOBNO>
+	<ONLINEMSG></ONLINEMSG>
+	<OFFLINEMSG></OFFLINEMSG>
+	<GROUPS>
+	</GROUPS>
+</USER>

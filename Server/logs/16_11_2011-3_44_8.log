@@ -1,0 +1,20 @@
+Starting server
+Initializing Users list
+loading data for all users
+Fetching data from the DB for user admin
+User data loaded for user admin
+done reading data
+Finish initializing user list
+
+----Server Started -----   Fri Dec 16 15:44:08 IST 2011
+Sign in request from : admin
+Validating : admin
+Fetching data from the DB for user admin
+User data loaded for user admin
+Login successful
+Calling status updater to update user status to other user about new user status status
+Returning all user list to the user
+Loading offline messages for user admin
+Offline messages not found for user admin
+Request to sign out the user from user admin
+Updating other users about offline user status 
